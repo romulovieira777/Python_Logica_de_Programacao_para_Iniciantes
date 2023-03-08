@@ -4,3 +4,7 @@ https://www.udemy.com/user/marcomaddo/
 
 GitHub do Professor
 https://github.com/profmaddo/python-formacao-python-basico
+
+
+Documentação Python
+https://docs.python.org/3.7/
