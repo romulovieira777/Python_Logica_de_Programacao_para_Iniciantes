@@ -1,0 +1,16 @@
+Material de Apoio - Operadores Comparativos em Python
+
+Operadores Comparativos
+
+
+> Maior que: Devolve um resultado lógico que pode ser true para x > y
+
+< Menor que: Devolve um resultado lógico que pode ser true para x < y
+
+== Exatamente igual: Devolve false se x==y
+
+!= Diferente: Devolve true se x != y
+
+>= Maior ou igual: Devolve true se x >= y
+
+<= Menor ou igual: Devolve true se x <= y
