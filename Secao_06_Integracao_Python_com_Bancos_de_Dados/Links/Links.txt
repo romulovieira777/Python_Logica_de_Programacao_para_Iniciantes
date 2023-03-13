@@ -1,0 +1,5 @@
+Pycharm
+https://www.jetbrains.com/pycharm/download/#section=windows
+
+SQLIte
+https://www.sqlite.org/index.html
