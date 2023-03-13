@@ -1,4 +1,17 @@
 Jupyter Notebook
 https://jupyter.org/
 
+Python
+https://www.python.org/
 
+Python Pandas
+https://pandas.pydata.org/docs/user_guide/10min.html#viewing-data
+
+Python Numpy
+https://numpy.org/
+
+Python Seaborn
+https://seaborn.pydata.org/
+
+Python Matplotlib
+https://matplotlib.org/
